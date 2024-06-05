@@ -189,6 +189,7 @@ Blockly.Msg.OPERATORS_RANDOM = 'pick random %1 to %2';
 Blockly.Msg.OPERATORS_GT = '%1 > %2';
 Blockly.Msg.OPERATORS_LT = '%1 < %2';
 Blockly.Msg.OPERATORS_EQUALS = '%1 = %2';
+Blockly.Msg.OPERATORS_THREQUALS = '%1 === %2';
 Blockly.Msg.OPERATORS_AND = '%1 and %2';
 Blockly.Msg.OPERATORS_OR = '%1 or %2';
 Blockly.Msg.OPERATORS_NOT = 'not %1';

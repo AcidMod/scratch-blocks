@@ -202,7 +202,7 @@ Blockly.Blocks['operator_threquals'] = {
    */
   init: function() {
     this.jsonInit({
-      "message0": Blockly.Msg.OPERATORS_THREQUALS,
+      "message0": '%1 === %2',
       "args0": [
         {
           "type": "input_value",
